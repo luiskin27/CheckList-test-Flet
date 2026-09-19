@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 13.0,
+        "category": "Transport"
+    },
+    {
+        "amount": 45.0,
+        "category": "Utilities"
+    },
+    {
+        "amount": 12.0,
+        "category": "Food"
+    }
+]
