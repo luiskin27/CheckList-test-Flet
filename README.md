@@ -27,7 +27,8 @@
 ### Скриншоты выполнения работы
 
 #### Скриншот 1: Исходное состояние приложения и список расходов
-<img width="1888" height="718" alt="Снимок экрана 2026-09-22 154441" src="https://github.com/user-attachments/assets/a3f8eff7-3e4d-41a1-abdc-7a4edd6b6d72" />
+<img width="1901" height="747" alt="Снимок экрана 2026-09-22 154413" src="https://github.com/user-attachments/assets/151be2b4-fbb9-47d8-9f4d-2b933f7c983b" />
+
 
 На скриншоте представлен главный экран приложения для учета расходов. В верхней части расположена форма добавления нового расхода New Expense с полями Amount и Category, а также кнопка Save. Ниже отображается общая сумма расходов Total Expenses: 70.00 som и ранее внесенные записи: Transport (13.00 som), Utilities (45.00 som) и Food (12.00 som).
 
